@@ -25,7 +25,9 @@ In a simpler form the circuit may contain a voltage source VS having internal re
 The maximum power transfer theorem tells us that the load should be equal in magnitude to the source resistance for maximum power to be absorbed by the load.
 
 **CIRCUIT DIAGRAM: FOR MAXIMUM POWER TRANSFER THEOREM:**
-**MODEL GRAPH:**
+**GRAPH:**
+<img width="817" height="1113" alt="WhatsApp Image 2026-05-30 at 8 36 29 AM" src="https://github.com/user-attachments/assets/192ad810-e75f-4cf1-8263-11f39a263741" />
+
 **TABULATION:**
  <img width="1076" height="1600" alt="WhatsApp Image 2026-05-24 at 2 30 27 PM" src="https://github.com/user-attachments/assets/bb08a2e4-b953-4dd8-af38-189278f18bc1" />
 	
@@ -44,7 +46,9 @@ The maximum power transfer theorem tells us that the load should be equal in mag
 
 4.	Verify the measured values of RL at maximum power transfer as same as calculated and found graphically.
 
-**RESULT:**
+**RESULT
+<img width="1157" height="673" alt="WhatsApp Image 2026-05-30 at 8 36 12 AM" src="https://github.com/user-attachments/assets/6550e000-8aa1-4900-bde1-01d939958f62" />
+
 
 Thus maximum power transfer theorem is verified practically and theoretically
 
